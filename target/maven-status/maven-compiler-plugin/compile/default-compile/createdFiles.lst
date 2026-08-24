@@ -1,0 +1,11 @@
+br\com\senaihub\pbe2senaihubapi\contatosController.class
+br\com\senaihub\pbe2senaihubapi\itemBaseController.class
+br\com\senaihub\pbe2senaihubapi\senhasController.class
+br\com\senaihub\pbe2senaihubapi\Contato.class
+br\com\senaihub\pbe2senaihubapi\ItemBase.class
+br\com\senaihub\pbe2senaihubapi\Senha.class
+br\com\senaihub\pbe2senaihubapi\Nota.class
+br\com\senaihub\pbe2senaihubapi\Tarefa.class
+br\com\senaihub\pbe2senaihubapi\tarefasController.class
+br\com\senaihub\pbe2senaihubapi\notasController.class
+br\com\senaihub\pbe2senaihubapi\Pbe2senaihubapiApplication.class
